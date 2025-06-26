@@ -1,10 +1,10 @@
-# 🛡️ Módulo 2 – Fundamentos de Seguridad en la Nube
+# Módulo 2 – Fundamentos de Seguridad en la Nube
 
 Este módulo se enfoca en los principios fundamentales de seguridad en entornos de computación en la nube, con especial énfasis en:
 
 ---
 
-## 🧩 Contenidos abordados
+## Contenidos abordados
 
 - Principios CIA (Confidencialidad, Integridad y Disponibilidad).
 - Modelos de despliegue (nube pública, privada, híbrida).
@@ -14,7 +14,7 @@ Este módulo se enfoca en los principios fundamentales de seguridad en entornos 
 
 ---
 
-## ✅ Aprendizajes Clave
+## Aprendizajes Clave
 
 - Comprendí la importancia de aplicar los principios CIA en conjunto.
 - Aprendí a identificar riesgos en configuraciones cloud y cómo mitigarlos.
@@ -23,11 +23,11 @@ Este módulo se enfoca en los principios fundamentales de seguridad en entornos 
 
 ---
 
-## 📂 Evidencias incluidas en este módulo: 
+## Evidencias incluidas en este módulo: 
 
 - Actividades resueltas por sesión.
 - Evaluación final con respuestas justificadas.
--Resumen del módulo, que incluye una reflexión sobre el impacto del módulo en el desarrollo profesional.
+- Resumen del módulo, que incluye una reflexión sobre el impacto del módulo en el desarrollo profesional.
 
 ---
 
