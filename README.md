@@ -3,7 +3,7 @@
 
 Este repositorio documenta mi proceso de aprendizaje en el **Bootcamp Seguridad Cloud**, realizado gracias a una **beca de Talento Digital Chile – SENCE**, impartido por OTEC **EDUTECNO**.
 
-Aquí encontrarás una carpeta por cada módulo del curso, con actividades, evaluaciones, resúmenes y reflexiones personales, todo con el objetivo de construir un **portafolio técnico demostrable** orientado al área de ciberseguridad en la nube ☁️🔐.
+Aquí encontrarás una carpeta por cada módulo del curso, con actividades, evaluaciones, resúmenes y reflexiones personales, todo con el objetivo de construir un **portafolio técnico demostrable** orientado al área de ciberseguridad en la nube.
 
 ---
 
