@@ -1,10 +1,10 @@
-# 🛡️ Módulo 1 – Fundamentos de Seguridad en la Nube
+# Módulo 1 – Fundamentos de Seguridad en la Nube
 
 Este primer módulo introduce los conceptos básicos de la seguridad en la nube y me permite planificar mi portafolio profesional, sentando las bases para documentar mi aprendizaje y desarrollo en el área.
 
 ---
 
-## 🧩 Contenidos abordados
+## Contenidos abordados
 
 - Autenticación multifactor (MFA)
 - Cifrado de datos en tránsito y en reposo
@@ -15,7 +15,7 @@ Este primer módulo introduce los conceptos básicos de la seguridad en la nube 
 
 ---
 
-## ✅ Aprendizajes Clave
+## Aprendizajes Clave
 
 - Conocí los fundamentos de la seguridad en la nube.
 - Comprendí el modelo de responsabilidad compartida.
@@ -24,7 +24,7 @@ Este primer módulo introduce los conceptos básicos de la seguridad en la nube 
 
 ---
 
-## 📂 Evidencias incluidas en este módulo: 
+## Evidencias incluidas en este módulo: 
 
 - Actividades resueltas por sesión.
 - Evaluación final con respuestas justificadas.
