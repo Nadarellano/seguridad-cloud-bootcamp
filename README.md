@@ -29,9 +29,9 @@ seguridad-cloud-bootcamp/
 ├── modulo-9/   ← Organización del portafolio profesional
 ├── modulo-10/  ← Empleabilidad y presentación en el mercado laboral
 │
-├── README.md # Descripción general del portafolio
+├── README.md   ← Descripción general del portafolio
 ├── reflexionInicial_Bootcamp.pdf
-└── certificado-final.pdf # Se agregará al finalizar el bootcamp
+└── certificado-final.pdf   ← Se agregará al finalizar el bootcamp
 ```
 ---
 
