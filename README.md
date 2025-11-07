@@ -67,7 +67,7 @@ Desarrollar competencias técnicas y personales para desempeñarse como profesio
 
 ## Sobre mí
 
-Soy Nadia Arellano, Ingeniera en Informática egresada, apasionada por el análisis de datos, la ciberseguridad  y soluciones tecnológicas con impacto social. Este portafolio refleja mi compromiso con el aprendizaje activo y el desarrollo profesional.
+Soy Nadia Arellano, Ingeniera en Informática titulada, apasionada por el análisis de datos, la ciberseguridad  y soluciones tecnológicas con impacto social. Este portafolio refleja mi compromiso con el aprendizaje activo y el desarrollo profesional.
 
 📍 Chile | 📧 nadia.arellano.g@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/nadia-aracelly-arellano-gonz%C3%A1lez-426aa721/)  
